@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="01" tvg-name="POWER" tvg-logo="https://telegra.ph/file/721452d2cefe7fc834370.jpg",POWER
+http://213.171.29.7:8080/memfs/f6904845-f59a-428e-9c88-ab7419552f2a.m3u8
+
+#EXTINF:-1 tvg-id="02" tvg-name="KIQ Science" tvg-logo="https://telegra.ph/file/e31de41b91b174f1cec8b.png",KIQ Science
+http://213.171.29.7:8080/memfs/95ba44ff-b5fe-4e4f-8c1a-063249e2984b.m3u8
+
+#EXTINF:-1 tvg-id="03" tvg-name="KIQ Culture" tvg-logo="https://telegra.ph/file/0e75b5994c38dac9f13fd.png",KIQ Culture
+http://213.171.29.7:8080/memfs/9b23b3d9-08c2-4493-8d4e-32cca69918fc.m3u8
+
+#EXTINF:-1 tvg-id="04" tvg-name="vochin tv" tvg-logo="https://telegra.ph/file/024afc12f6c99afe68210.jpg",vochin tv
+http://tvlive.powertv.su:8080/memfs/179476ca-32bc-4bba-8112-de1c3bafc4ce.m3u8
+
+#EXTINF:-1 tvg-id="05" tvg-name="TEST01102457625" tvg-logo="",TEST01102457625
+http://213.171.29.7:8080/memfs/bffee91b-a902-433b-bb9c-7339cf45d407.m3u8
